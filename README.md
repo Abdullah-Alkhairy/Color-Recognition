@@ -1,0 +1,3 @@
+Project Description
+The sensor detects the color of the target presented in front of the camera and displays the color name on the HuskyLens screen.
+This system can be used in educational applications or robots that rely on color recognition.
